@@ -1,0 +1,12 @@
+.{
+    .name = .rocketcraft_zig,
+    .version = "0.16.0",
+    .dependencies = .{
+        .raylib = .{
+            .url = "git+https://github.com/raysan5/raylib.git#94897c4eca842673bad16ab03ad776a0a2255b14",
+            .hash = "raylib-6.0.0-whq8uB7QLwVZCI-1KlD-69DMStDll5KY3JEZTQH1gW1q",
+        },
+    },
+    .paths = .{""},
+    .fingerprint = 0x4edc22f9bc7068bc,
+}
